@@ -2,6 +2,7 @@ input.user-input {
     border: none;
     border-bottom: 1px solid black;
     overflow: hidden;
+    
   }
   
 input.user-input:focus {
